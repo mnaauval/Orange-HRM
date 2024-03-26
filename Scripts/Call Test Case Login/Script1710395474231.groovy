@@ -22,6 +22,5 @@ def parameter = [('TD_ID') : "TD_ID",
 	('password') : "password",
 	('TYPE_TESTCASE') : "TYPE_TESTCASE",
 	('TEST_CASE') : "TEST_CASE",
-	('EXPECTED_RESULT') : "EXPECTED_RESULT",
-	('VALIDATION') : "VALIDATION"]
+	('EXPECTED_RESULT') : "EXPECTED_RESULT"]
 WebUI.callTestCase(findTestCase('Test Cases/Login_out'), parameter, FailureHandling.STOP_ON_FAILURE)
