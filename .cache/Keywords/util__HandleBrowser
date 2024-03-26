@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BE141E1270C674C33C7AB78E012BC091",
+  "keywordClasses": [
+    {
+      "name": "com.util.HandleBrowser",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

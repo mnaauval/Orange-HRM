@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "97AD6BF724A1D5B64CA121DE8B0FCF85",
+  "keywordClasses": [
+    {
+      "name": "com.util.HandleBrowser",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
